@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Deep Learning in Action 2015"
 email: "munichacm@gmail.com"
 description: "Deep Learning in Action is a Speaker Series from TUM Students for TUM Students"
-baseurl: "/deeplearning/first_edition"
+baseurl: "/dlia-01"
 url: "https://munichacm.github.io"
 #permalink: "/blog/:title"
 
