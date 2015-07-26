@@ -1,0 +1,54 @@
+-
+  id: 307
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 100
+  title: "Arrival & Get-together"
+  language: en
+  service: true
+  description: "Grab some beer and food and get excited"
+-
+  id: 000
+  title: "Welcome to Deep Learning in Action"
+  language: en
+  speakers: [3]
+-
+  id: 001
+  title: "Deep Learning in Natural Language Processing"
+  description: "Natural Language Processing (NLP) is an important part of many real world applications used by most people in our society today. Most prominent examples are automatic machine translation, search engines, or speech recognition. In this talk I will give a short overview over existing NLP applications and the challenges they still face. Following that, I will show the application of deep learning techniques to two important NLP tasks: language modelling and sentiment analysis."
+  subtype: keynote
+  speakers: [1]
+  language: en
+  complexity: "Beginner"
+  video: "https://www.youtube.com/embed/NA8hrmmHsCM"
+  presentation: "https://www.slideshare.net/slideshow/embed_code/key/qfsY06b35Kb4i9"
+
+-
+  id: 002
+  title: "Deep Learning in Computer Vision"
+  description: "Classification and detection are still major problems in computer vision and waiting to be addressed. Recent studies in deep learning show an outstanding performance in these tasks. Deep learning methods are representation learning methods which allow a machine to learn the representations of data with multiple levels of abstraction. In this talk, I will discussthe major advantages of deep learning methods in computer vision applications by focusing on Convolutional Neural Networks and recent works, including our latest research 'FlowNet: Learning Optical Flow with Convolutional Networks'."
+  subtype: keynote
+  speakers: [2]
+  language: en
+  complexity: "Beginner" 
+  video: "https://www.youtube.com/embed/6hIUFklI28I"
+  presentation: "https://www.slideshare.net/slideshow/embed_code/key/o6j8mkmfmFrQyE"
+-
+  id: 003
+  title: "Causative Adversarial Learning"
+  description: "Modern learning systems rely more and more on real-world data, which is booming up in many kinds of applications. A bundle of machine learning algorithms and applications are therefore developed to fit the highly demanding intelligent agents. However,are they really reliable systems? Are the learning algorithms themselves not in a danger of being fooled by their intrinsic algorithmic flaws? In this talk, we share some ideas from the adversarial perspective to spot some of the weakness in the trend ofmachine learning algorithms and introduce a new rising research line in the machine learning community. We kindly expect theawareness of the adversarial side of learning systems and invoke researchers and practitioners’s consideration while they design the learning systems."
+  subtype: keynote
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+  video: "https://www.youtube.com/embed/3Dw-8ETS4SM"
+  presentation: "https://www.slideshare.net/slideshow/embed_code/key/6Uc9KmqsmGCJan"
+-
+  id: 101
+  title: "Social Evening"
+  language: en
+  service: true
+  description: "Wow, awesome talks! Grab a beer and continue the discussion."

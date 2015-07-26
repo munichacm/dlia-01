@@ -1,0 +1,53 @@
+- 
+  id: 1
+  name: "Sebastian"
+  surname: "Ebert"
+  company: "Chair for NLP, LMU"
+  title: "PhD Student"
+  bio: "Sebastian is a PhD Student at Hinrich Schütze's Lab at Ludwig Maximilian University Munich. His research is about Sentiment Analysis, Deep Learning and Neural Language Models."
+  thumbnailUrl: thumbnail.png
+  rockstar: true
+- 
+  id: 2
+  name: "Caner"
+  surname: "Hazırbaş"
+  company: "Chair for Computer Vision, TUM"
+  title: "PhD Student"
+  bio: 'Caner received his Computer Engineering Bachelors Degree at Yildiz Technical University, Istanbul and Informatics Masters Degree at the Technical University, Munich (TU München). During his study, he focused on object recognition and detection in the fields of computer vision and machine learning. He is currently pursuing a Ph.D. at the Computer Vision Group, TU Munich under the supervision of Prof. Dr. Daniel Cremers. He is interested in deep learning, object detection/recognition, semantic scene understanding.'
+  thumbnailUrl: CanerHazirbas.jpg
+  rockstar: true
+- 
+  id: 3
+  name: "David"
+  surname: "Dao"
+  company: "Exelixis Lab, HITS"
+  title: "Graduate Student Researcher"
+  bio: "David is a M.Sc. Student at TUM and a Student Researcher at Heidelberg Institute for Theoretical Studies (HITS). Before his studies, David worked as intern at CERN. For his thesis he will work on machine learning at the Broad Institute of MIT and Harvard. He is interested in machine learning and its applications, including bioinformatics, computer vision, natural language processing and information retrieval"
+  thumbnailUrl: DavidDao.png
+  rockstar: true
+  ribbon: 
+    - {abbr: "ACM", title: "ACM", url: "http://germany.acm.org/"}
+    - {abbr: "IEEE", title: "IEEE Computer Society", url: "http://www.computer.org/web/guest"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/106964331265732757093"}
+    - {name: "twitter", link: "https://twitter.com/daviddao_"}
+    - {name: "github", link: "https://github.com/daviddao"}
+    - {name: "site", link: "http://daviddao.de/"}
+- 
+  id: 4
+  name: "Huang"
+  surname: "Xiao"
+  company: "Chair for IT Security, TUM"
+  title: "PhD Student"
+  bio: "Huang is a PhD Student at the IT Security Chair at TUM. His research includes adversarial learning theory, robust learning, semi-supervised learning, nonparametric learning, and other general machine learning methods."
+  thumbnailUrl: HuangXiao.jpg
+  rockstar: true
+# - 
+#   id: 5
+#   name: "Third"
+#   surname: "Speaker"
+#   company: "from awesome"
+#   title: "genius"
+#   bio: "Awesome guy"
+#   thumbnailUrl: thumbnail.png
+#   rockstar: true
